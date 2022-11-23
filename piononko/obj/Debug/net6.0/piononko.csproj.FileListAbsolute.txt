@@ -1,0 +1,15 @@
+C:\Users\ilyxa\source\repos\piononko\piononko\bin\Debug\net6.0\piononko.exe
+C:\Users\ilyxa\source\repos\piononko\piononko\bin\Debug\net6.0\piononko.deps.json
+C:\Users\ilyxa\source\repos\piononko\piononko\bin\Debug\net6.0\piononko.runtimeconfig.json
+C:\Users\ilyxa\source\repos\piononko\piononko\bin\Debug\net6.0\piononko.dll
+C:\Users\ilyxa\source\repos\piononko\piononko\bin\Debug\net6.0\piononko.pdb
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.csproj.AssemblyReference.cache
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.AssemblyInfoInputs.cache
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.AssemblyInfo.cs
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.csproj.CoreCompileInputs.cache
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.dll
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\refint\piononko.dll
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.pdb
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\piononko.genruntimeconfig.cache
+C:\Users\ilyxa\source\repos\piononko\piononko\obj\Debug\net6.0\ref\piononko.dll
